@@ -1,0 +1,6 @@
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/dimonchoo/plugin1
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/dimonchoo/plugin2
